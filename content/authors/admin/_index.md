@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yi-Chin (Sunny) Tseng
+name: Sunny Tseng
 
 # Username (this should match the folder name)
 authors:
@@ -44,16 +44,16 @@ education:
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SunnyTseng
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=_bHf5NgAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: https://www.linkedin.com/in/yi-chin-sunny-tseng-466858158/  
 - icon: facebook-square
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.facebook.com/SunnyYCTseng
 
 
 # Link to a PDF of your resume/CV from the About widget.
