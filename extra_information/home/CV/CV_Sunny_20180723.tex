@@ -1,0 +1,384 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,letterpaper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{green}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex or lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+%enable to make multiple cloumn
+\usepackage{multicol}
+
+% adjust the page margins
+\usepackage[scale=0.85]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+%\usepackage{import}
+
+% personal data
+\name{YI-CHIN (SUNNY)}{TSENG}
+\title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
+%\address{my address, line 1, line 2, line 3, postcode}{}{}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+1 778-985-2258}                   % optional, remove / comment the line if not wanted
+%\phone[fixed]{+886 224571083}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{sunnyyctseng@gmail.com}                               % optional, remove / comment the line if not wanted
+%\homepage{www.myname.webs.com}                         % optional, remove / comment the line if not wanted
+%\extrainfo{Double major student in Forestry and Physics department, NTU}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{}                                 % optional, remove / comment the line if not wanted
+
+\usepackage{xpatch}
+\makeatletter
+\xpatchcmd{\makehead}{\titlestyle{~|~\@title}}{\par\vskip1ex\titlestyle{\@title}}{}{}
+\makeatother
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+
+\makecvtitle{
+\small{\textbf{\color{green!55!blue}{Objective}} ZONTA Women in Technology Scholarship Application}}
+
+%%%% Education %%%%
+\section{EDUCATION}
+\vspace{3pt}
+
+\begin{itemize}
+\item{\cventry{Sep.2017 -- present}{\textbf{Forest Resources Management}}{Master of Science, University of British Columbia}{Vancouver, Canada}{}{\vspace{3pt}
+Supervisor: Bianca N.I. Eskelson\\
+Committee members: Kathy Martin, Nicholas C. Coops, and Vicente J. Monleon\\
+\\
+Course taken: Advanced Biometrics (A+), Technical Communication Skills (A+), Multiple Regression Methods (A+), Ornithology (A), Advanced Remote Sensing (A+)
+\vspace{8pt}
+}}
+
+
+\item{\cventry{Sep.2012 -- July.2017}{\textbf{Forestry and Resource Conservation, Department of Physics}}{Bachelor of Science, National Taiwan University}{Taipei, Taiwan}{}{\vspace{3pt}
+Double Major Student\\
+Supervisor: Biing T. Guan, Tzeng-Yih Lam, and Shi-Wei Chu\\
+\\
+Forestry GPA: \hspace{6.7mm} 3.96/4.0 \hspace{0.5mm} (4.16/4.3 unconverted)\\
+Physics GPA: \hspace{7.7mm} 3.40/4.0 \hspace{0.5mm} (3.48/4.3 unconverted)\\
+Cumulative GPA: \hspace{2.1mm} 3.65/4.0 \hspace{0.5mm} (3.76/4.3 unconverted)\\
+%Selected courses in Forestry: \\
+%Forest Management (I,II) (A,A+), Forest Ecology (A), Forest Climate (A+), Dendrology (A-)\\
+%Numerical Analysis and Programming (A), Forest Management Quantitative Analysis (A+)\\ 
+}}
+\end{itemize}
+
+
+%%%% Research Publication %%%%
+\section{RESEARCH PUBLICATION}
+%% journal publication %%
+\subsection{JOURNAL ARTICLE}
+\begin{itemize}
+\item{(In Preparation) Tseng, Y.-C., Eskelson, B.N.I., LeMay V., and Martin, K. (2019) Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model. \textit{Avian Conservation and Ecology}.}
+\vspace{3pt}
+
+\item{Tseng, Y.-C., and Chu, S.-W. (2017) High Spatio-Temporal-Resolution Detection of Chlorophyll Fluorescence Dynamics from a Single Chloroplast with Confocal Imaging Fluorometer. \textit{Plant Methods}, \textbf{13}, 43. (doi: \href{https://doi.org/10.1186/s13007-017-0194-2}{\textcolor{blue}{10.1186/s13007-017-0194-2}})}
+\end{itemize}
+
+\subsection{FIELD RECORDING}
+\begin{itemize}
+\item{\cventry{Dec.2017}{Yi-Chin Tseng}{Xeno-Canto: World Wide Bird Sound Recordings Sharing Platform}{Xeno Canto}{}{\vspace{3pt}
+Total 77 recordings from 26 species from north east Siberia were published in Xeno-Canto. A recording of Siberian Crane was selected as spotlight feature of the website (\href{https://www.xeno-canto.org/contributor/SPMWIWZKKC}{\textcolor{blue}{profile}}).}}
+\end{itemize}
+
+
+%% conference talk %%
+\subsection{CONFERENCE TALK}
+
+\begin{itemize}
+\item{\cventry{Oct.2018}{Yi-Chin Tseng, Bianca N.I. Eskelson, and Kathy Martin}{Canadian Wildlife Service Methods Seminar}{Vancouver, Canada}{}{
+"Automatic Bird Sound Detection"
+}}
+
+\item{\cventry{Oct.2018}{Yi-Chin Tseng, Bianca N.I. Eskelson, and Kathy Martin}{Ecology \& Evolution Retreat}{Squamish, Canada}{}{
+"Automatic Bird Sound Detection: ARU data analysis"
+}}
+
+
+\item{\cventry{Aug.2018}{Yi-Chin Tseng, Bianca N.I. Eskelson, and Kathy Martin}{International Ornithological Congress}{Vancouver, Canada}{}{
+"Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model"
+}}
+
+\item{\cventry{Aug.2015}{Yi-Chin Tseng, Shi-Wei Chu}{International Forestry Students' Symposium}{Manila, Philippines}{}{
+"Chlorophyll Fluorescence- A Powerful Tool for Photobiology Research"
+}}
+
+%\item{\cventry{Nov.2012}{Yi-Chin Tseng, Jen-Yu Liu}{Fran Physical Festival}{Canton, China}{}{
+%"Human Physiological Reactions to Temperature"
+%}}
+\end{itemize}
+
+%% conference poster %%
+\subsection{CONFERENCE POSTER}
+\begin{itemize}
+%\item{\cventry{Aug.2019}{Yi-Chin Tseng, Bianca Eskelson}{(Upcoming) Annual meeting of Ecological Society of America}{Louisville, USA}{}{
+%"The role of previous fire on the severity of Hanceville-Riske Creek wildfire"
+%}}
+\item{\cventry{Jun.2018}{Yi-Chin Tseng, Bianca Eskelson}{Annual Meeting of Soundscape Association}{Taipei, Taiwan}{}{\vspace{3pt}
+"Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model"
+}}
+
+
+\item{\cventry{Apr.2017}{Yi-Chin Tseng, Shi-Wei Chu}{Focus On Microscopy}{Bordeaux, France}{}{\vspace{3pt}
+"High Spatio-Temporal-Resolution Detection of Chlorophyll Fluorescence from a Single Chloroplast with Confocal Imaging Fluorometer"
+}}
+
+%\item{\cventry{Nov.2016}{Yi-Chin Tseng, Shi-Wei Chu}{International Workshop on Holography \& Biomedical Molecular Imaging}{Yilan, Taiwan}{}{\vspace{3pt}
+%"High Spatio-Temporal-Resolution Detection of Chlorophyll Fluorescence from a Single Chloroplast with Confocal Imaging Fluorometer"
+%}}
+
+%\item{\cventry{Jan.2016}{Yi-Chin Tseng, Shi-Wei Chu}{Annual meeting of Physics Society of the Republic of China}{Kao-Hsiung, Taiwan}{}{\vspace{3pt}
+%"Detect Temporal Dynamics of Chlorophyll Fluorescence \textit{in vivo} with Confocal Microscopy"
+%}}
+\end{itemize}
+
+
+%%%% Academic experiences %%%%
+\section{ACADEMIC EXPERIENCE}
+\begin{itemize}
+\item{\cventry{Jan.2018 -- present}{\textbf{Master Thesis (Funded by SAT)}}{Automatic Bird Sound Detection by Logistic Regression}{UBC}{}{
+\textit{Instructor:} Valerie LeMay, Bianca Eskelson, Kathy Martin\\
+}}
+
+\item{\cventry{Sep.2017 -- present}{\textbf{Master Thesis (Funded by NSERC)}}{Comparison of Fire Severity Assessments Using Remote Sensing Data}{UBC}{}{
+\textit{Instructor:} Bianca Eskelson, Nicholas Coops, Kathy Martin, and Vicente Monleon\\
+}}
+
+\item{\cventry{Apr.2017 -- Aug.2017}{\textbf{Arctic Research Cooperation (Funded by TEEDF)}}{Seasonal Variation of Bird Sound in Sakha Republic}{Russian Academy of Science}{}{
+\textit{Instructor:} Dr. Sergei Sleptsov\\
+\textit{Skills:} Field work in tundra, birdsong recording with parabolic microphone, audio signal processing, arranging field work for a group, governmental documents application\\
+}}
+
+\item{\cventry{Sep.2015 -- Feb.2017}{\textbf{Undergraduate Research Project (Funded by MOST)}}{Correlation Analysis of Tree Ring Characteristics}{NTU}{}{
+\textit{Instructor:} Dr. Biing T. Guan\\
+\textit{Skills:} Techniques of dendrochronology (COFECHA, Arstein, time series analysis), Ensemble Empirical Mode Decomposition (EEMD),  laboratory techniques for ITRAX wood scanner\\
+}}
+
+\item{\cventry{Mar.2015 -- Nov.2016}{\textbf{Undergraduate Research Project (Funded by MOST)}}{Detection of Chlorophyll Fluorescence Dynamics from a Single Chloroplast}{NTU}{}{
+\textit{Instructor:} Dr. Shi-Wei Chu\\
+\textit{Skills:} Confocal microscopy (HeNe laser manipulate, fluorescence observation, etc.), manuscript writing and submitting\\
+}}
+
+\item{\cventry{Jul.2016 -- Aug.2016}{\textbf{Short-Term Research Program}}{Bayesian Statistic Modeling}{Freie Universität Berlin}{}{
+\textit{Instructor:} Dr. Stavros Veresoglou\\
+\textit{Skills:} Bayesian Statistic, Markov chain Monte Carlo, parameters posterior distribution estimation\\
+}}
+
+\item{\cventry{Feb.2016 -- Jun.2016}{\textbf{Bachelor Thesis}}{Der Mogel -- Bird Song Identification System}{NTU}{}{
+\textit{Instructor:} Dr. Tzeng-Yih Lam\\
+\textit{Skills:} Programming with R, GUI construction, pattern matching with Gaussian Mixture Model\\
+\textit{Results:} Results to be announced as a web application (\href{http://fml1.fo.ntu.edu.tw/shiny/DerMogel/}{\textcolor{blue}{link}})\\
+}}
+\end{itemize}
+
+$\ast$ UBC: University of British Columbia/ $\ast$ NTU: National Taiwan University \\
+$\ast$ NSERC: Natural Sciences and Engineering Research Council/ $\ast$ SAT: Soundscape Association of Taiwan\\
+$\ast$ TEEDF: Taiwan Ecological Engineering Development Foundation\\
+$\ast$ MOST: Ministry Of Science and Technology/ $\ast$ RCEC: Research Center for Environmental Changes
+
+
+
+%%%% Awards and scholarship %%%%
+\section{AWARDS and SCHOLARSHIPS}
+\begin{itemize}
+\item{\cventry{Feb.2019}{First place of 3MT competition in Faculty of Forestry}{3 Minute Thesis Award}{UBC}{}{}}
+
+\item{\cventry{Feb.2019}{Fellowship for conducting research in Forestry}{VanDusen Graduate Fellowship in Forestry}{UBC}{}{}}
+
+\item{\cventry{Nov.2018}{Offer young research to design and lead an independent field research project}{Early Career Grant}{National Geographic}{}{}}
+
+\item{\cventry{Nov.2018}{Scholarship for conducting research in Forestry}{Hugh Robert Duncan Chisholm Scholarship in Forestry}{UBC}{}{}}
+
+\item{\cventry{Oct.2018}{Fellowship for conducting research in Ornithology}{Werner and Hildegard HESSE Fellowship in Ornithology}{UBC}{}{}}
+
+\item{\cventry{Oct.2018}{Fellowship for Taiwanese students pursuing higher education in Canada}{Pei-Huang Tung and Tan-Wen Tung Graduate Fellowship}{UBC}{}{}}
+
+\item{\cventry{Sep.2018}{Fellowship for students in Faculty of Forestry studying forest resource ecosystems}{Mary and David Macaree Fellowship}{UBC}{}{}}
+
+\item{\cventry{Aug.2018}{Scholarship for students conducting research about forest fire ecology}{BA Blackwell \& Associates Scholarship in Fire Science}{BA Blackwell \& Associates}{}{}}
+
+\item{\cventry{Feb.2018}{Scholarship for soundscape or sound associated research}{Soundscape and Sound Research Scholarship}{SAT}{}{}}
+
+\item{\cventry{Sep.2017}{Top 20\% ranked student in each of the last two years of full time study}{Faculty of Forestry Strategic Recruitment Fellowships}{UBC}{}{}}
+
+\item{\cventry{Sep.2017}{International graduate student registered full-time in research-oriented master’s programs}{International Tuition Award}{UBC}{}{}}
+
+\item{\cventry{Aug.2017}{Top 5\% ranked research report.}{College Student Research Creativity Award}{MOST}{}{}}
+
+\item{\cventry{Apr.2017}{Selected researcher for Arctic research project}{Arctic Research Cooperation Scholarship}{TEEDF}{}{}}
+
+\item{\cventry{Jun.2016}{Excellent research proposal.}{College Student Research Scholarship}{MOST}{}{}}
+
+\item{\cventry{Apr.2016}{Ranked 1 (out of 14 groups) in physics department poster competition}{Outstanding Poster and Presentation Award}{NTU}{}{}}
+
+\item{\cventry{Jan.2016}{Top 5\% ranked student in the semester}{President Award}{NTU}{}{}}
+
+\item{\cventry{Dec.2015}{3 awardees per year for outstanding academic achievement.}{Alumnus scholarship in NTU Physics}{NTU}{}{}}
+\end{itemize}
+
+\pagebreak
+\section{TEACHING EXPERIENCE}
+\begin{itemize}
+
+\item{\cventry{Feb.2019 -- Apr.2019}{\textbf{Regression II}}{Teaching Assistant}{UBC}{}{
+Conducted guest lecture, attend labs including generalized linear models, mixture models, mixed effect models. \\
+Instructor: Vincenzo Coia
+}}
+
+\item{\cventry{Jan.2019 -- Feb.2019}{\textbf{Feature and Model Selection}}{Teaching Assistant}{UBC}{}{
+Mark weekly labs on github platform, attend labs for supervised/unsupervised machine learning. \\
+Instructor: Mark Schmidt, Varada Kolhatkar
+}}
+
+\item{\cventry{Sep.2018 -- Oct.2018}{\textbf{Descriptive Statistics and Probability for Data Science}}{Teaching Assistant}{UBC}{}{
+Hold review sessions before exams, attend labs for probability theory.\\
+Instructor: Mike Gelbart 
+}}
+
+\item{\cventry{Sep.2018 -- Dec.2018}{\textbf{Advanced Biometrics}}{Teaching Assistant}{UBC}{}{ 
+Mark weekly assignments, attend labs \\
+Instructor: Bianca Eskelson
+}}
+
+\item{\cventry{Feb.2018}{\textbf{GEM540 Review Sessions}}{Tutor}{UBC}{}{
+Hold extra review sessions for MGEM students covering fundamental statistic topics: descriptive statistics, probability distribution, sampling distribution, hypothesis test, and simple/multiple linear regression
+}}
+
+%\item{\cventry{Sep.2016 -- Feb.2017}{\textbf{of Electronics}}{Teaching Assistant}{NTU}{}{
+%Help maintaining teaching website and dealing with copyright issues of handouts on Open Course Website (OCW) 
+%}}
+
+%\item{\cventry{Jun.2015}{\textbf{of Forest Environment Practice}}{Teaching Assistant}{NTU}{}{
+%Lead junior students to measure stream bed profile in Sitou, Taiwan
+%}}
+\end{itemize}
+
+
+%\subsection{COACH}
+%\begin{itemize}
+%\item{\cventry{Sep.2016 -- Oct.2016}{\textbf{of Lifeguard Team}}{Coach}{NTU}{}{
+%Help the organization and teaching of a twenty days lifeguard training
+%}}
+
+%\item{\cventry{Jul.2014 -- Jun.2015}{\textbf{of Table Tennis Team}}{Assistant Coach}{NTU}{}{
+%Teach fundamental skills of table tennis for new members in table tennis team
+%}}
+%\end{itemize}
+
+%% Skills %%
+%\subsection{SKILLS}
+%\begin{itemize}
+%\item{\textbf{Languages:}
+%\begin{itemize}
+%    \item {Mandarin (Native language), English (TOEFL 104, R:30/ L:26/ S:24/ W:24)}
+%    \item {Japanese (Conversational), Mongolian (Beginner)}
+%\end{itemize}
+%\vspace{3pt}
+
+%\item{\textbf{Programing:} R, Python, \LaTeX, VBA, QGIS}
+%\item{\textbf{Math:} Calculus, Linear Algebra, ODE, Mixture Model, Bayesian Statistics, Generalized Linear Models}
+%\end{itemize}
+
+%%%% Other experiences %%%%
+\section{OTHER EXPERIENCE}
+%% field experience %%
+\subsection{FIELD EXPERIENCE}
+
+\begin{itemize}
+\item{\cventry{Sep.2018 -- Nov.2018}{\textbf{Iona Island Bird Observatory}}{Bander}{Vancouver, Canada}{}{
+\textit{Volunteer activity for migration monitoring}
+}}
+
+\item{\cventry{Jun.2018 -- Aug.2018}{\textbf{Post-fire Vegetation Measurement}}{Leader}{Williams Lake, Canada}{}{
+\textit{Principal Investigator: Bianca Eskelson}
+}}
+
+\item{\cventry{Jul.2017 -- Aug.2017}{\textbf{Siberian Tundra Research Team}}{Leader}{Siberia, Russia}{}{
+\textit{Principal Investigator: Sergei Sleptsov}
+}}
+
+%\item{\cventry{Sep.2015 -- Jul.2017}{\textbf{Soil Erosion Research Team}}{Organizer}{Sitou, Taiwan}{}{
+%\textit{Principal Investigator: Dr. Ming-Chieh Chen}\\
+%Organize fieldwork and lead group members for climate data collection monthly
+%}}
+
+%\item{\cventry{Mar. \& Jun.2015}{\textbf{Forest Research Group for Setting Quadrats}}{Member}{Wu-Feng \& Puli, Taiwan}{}{
+%\textit{Principal Investigator: Dr. Chyi-Rong Chiou}\\
+%Set permanent/temporal quadrats and carry out forest census in remote mountain
+%}}
+\end{itemize}
+
+
+%% General %%
+\subsection{AFFILIATIONS}
+
+\begin{itemize}
+\item{\cventry{Sep.2018 -- present}{Specimen preparation for museum demonstration and research purpose.}{Volunteer in UBC Beaty Biodiversity Museum}{UBC}{}{}}
+
+\item{\cventry{Dec.2017 -- present}{Participate events for birding.}{Member of UBC Birding Club}{UBC}{}{}}
+
+\item{\cventry{Dec.2017 -- present}{Collect avian population data for use in conservation biology.}{Member of Christmas Bird Counting}{National Audubon Society}{}{}}
+
+\item{\cventry{Sep.2017 -- Apr.2018}{Join weekly toastmaster meeting for training public speaking skills.}{Member of Walter Gage Toastmasters}{UBC}{}{}}
+
+%\item{\cventry{Nov.2016}{Organize 3-days conferences for international participants.}{Emcee of International Workshop on Holography \& Biomedical Molecular Imaging}{NTU}{}{}}
+
+%\item{\cventry{Dec.2015 -- Jun.2016}{Serve weekly in NTU outdoor swimming pool.}{Lifeguard in Aquatic Service Team}{NTU}{}{}}
+
+%\item{\cventry{Mar.2015 -- Mar.2016}{Volunteer for introducing herbarium on weekends.}{Commentator of NTU Herbarium}{NTU}{}{}}
+
+%\item{\cventry{Jul.2014 -- Jul.2015}{Organize activities and work on student affairs with team members in physic department.}{Vice President of Student Association}{NTU Phys}{}{}}
+
+%\item{\cventry{Jul.2014 -- Jun.2015}{Led the team to win victory in interscholastic Physics Cup and NTU Sciences Cup.}{Team Leader of Department Table Tennis Team}{NTU Phys}{}{}}
+
+%\item{\cventry{Aug. 2013}{Help Cambodia local residents build houses, restrooms and provide health education.}{Volunteer in ELIV Social Enterprise}{Cambodia}{}{}}
+
+\end{itemize}
+
+
+
+%% Extracurricular activities %%
+\subsection{CREDENTIALS}
+
+\begin{itemize}
+\item{\textbf{Wilderness First Aid Certificate} Canadian Red Cross}
+\item{\textbf{Open Water Diving Certificate} PADI}
+\item{\textbf{CPR Certificate} The Red Cross Society of Taiwan}
+\item{\textbf{Lifeguard License} Chinese Taipei Water Life Saving Association}
+\end{itemize}
+
+
+
+\end{document}
+
+
