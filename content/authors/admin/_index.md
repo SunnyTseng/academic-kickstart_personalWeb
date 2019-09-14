@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yi-Chin (Sunny) Tseng
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of British Columbia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Forest Resources Management
+    institution: University of British Columbia
+    year: 2019
+  - course: BSc in Forestry and Resources Conservation
+    institution: National Taiwan University
+    year: 2017
+  - course: BSc in Physics
+    institution: National Taiwan University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
