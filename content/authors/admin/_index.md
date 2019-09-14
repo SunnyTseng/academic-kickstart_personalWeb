@@ -48,7 +48,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_bHf5NgAAAAJ
-- icon: linked-in
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/yi-chin-sunny-tseng-466858158/  
 - icon: facebook
