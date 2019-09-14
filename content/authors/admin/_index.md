@@ -17,25 +17,25 @@ organizations:
 - name: University of British Columbia
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Machine Learning
-- Avian Bioacoustics
-- Ornithology
+# interests:
+# - Machine Learning
+# - Avian Bioacoustics
+# - Ornithology
 
-education:
-  courses:
-  - course: MSc in Forest Resources Management
-    institution: University of British Columbia
-    year: 2019
-  - course: BSc in Forestry and Resources Conservation
-    institution: National Taiwan University
-    year: 2017
-  - course: BSc in Physics
-    institution: National Taiwan University
-    year: 2017
+# education:
+#   courses:
+#   - course: MSc in Forest Resources Management
+#     institution: University of British Columbia
+#     year: 2019
+#   - course: BSc in Forestry and Resources Conservation
+#     institution: National Taiwan University
+#     year: 2017
+#   - course: BSc in Physics
+#     institution: National Taiwan University
+#     year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -74,4 +74,4 @@ user_groups:
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
