@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc student in UBC Biometrics Lab
+role: MSc student
 
 # Organizations/Affiliations
 organizations:
@@ -48,10 +48,10 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: linkedin-sign
+- icon: linkedin
   icon_pack: fab
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: facebook-sign
+- icon: facebook-square
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 
