@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! This is Sunny, currently an MSc student in UBC. I was born and raised in a beautiful country called Taiwan. The cold weather in Vancouver often make me miss the sun, the beach, and the food in the nightmarkets in Taiwan. As an undergraduate student in National Taiwan University, I double majored in Physics and Forestry Conservation. In graduate school, I continue pursuing my passion in developing mathimetical methods on conservation ecology. In particular, I am most interested in applying machine learning techniques in analyzing bioacoustic data. When I am not sitting in the office, you can often find me being outside recordings bird sounds, hiking, swimming, or staying home doing artworks. 
+Hi! This is Sunny, currently an MSc student in UBC. I was born and raised in a beautiful country called Taiwan. The cold weather in Vancouver often make me miss the sun, the beach, and the food in the nightmarkets. As an undergraduate student in National Taiwan University, I double majored in Physics and Forestry Conservation. In graduate school, I continue pursuing my passion in developing mathimetical methods on conservation ecology. In particular, I am most interested in applying machine learning techniques in analyzing bioacoustic data. When I am not sitting in the office, you can often find me being outside recordings bird sounds, hiking, swimming, or staying home doing artworks. 
 
-Please refer to my CV for futher detailed information. Take a look at my CV of Failures as well! :)
+To know more about me, please refer to my CV and CV of Failures! :)
