@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! This is Sunny, currently an MSc student in UBC. I was born and raised in a beautiful country called Taiwan. The cold weather and the rain in Vancouver often make me miss the sun, the beach, and the food in the nightmarkets in Taiwan. As an undergraduate student in National Taiwan University, I double majored in Physics and Forestry Conservation. In graduate school, I continue pursuing my passion in developing mathimetical methods on conservation ecology. In particular, I am most interested in applying machine learning techniques in analyzing bioacoustic data. When I am not sitting in the office, you can often find me being outside recordings bird sounds, hiking, swimming, or staying home doing artworks. 
 
-Please refer to my CV for detailed information of education and publications. Take a look at my CV of failures if you are interested! :)
+Please refer to my CV for detailed information of education and publications. Take a look at my CV of failures as well! :)
