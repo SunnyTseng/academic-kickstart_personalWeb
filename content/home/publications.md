@@ -66,7 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 ##### Peer reviewed publications
-- Ahhh the bird one
-- The physics
+- Tseng, Y.-C., B.N.I. Eskelson, K. Martin, and V. LeMay. Automatic bird sound detection:
+Logistic occupancy model for audio recordings. [Avian Conservation and Ecology](https://www.ace-eco.org/). (In preparation)
+
+- Tseng, Y.-C., and S.-W. Chu. 2017. High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics
+from a single chloroplast with confocal imaging fluorometer. [Plant Methods](https://plantmethods.biomedcentral.com/), 13:43. ([link](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0194-2))
 
 ##### Non-peer reviewed publication
+- Tseng, Y.-C. 2019. Apply statistics on bird "listening". [Discovery](https://naturevancouver.ca/publications/discovery/), 47(1) (Submitted)
+- Tseng, Y.-C. 2018. Can statistics help ornithologists "hear" birds? [BranchLines](https://forestry.ubc.ca/publications/branchlines/), 29(3):11. [link](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf)
