@@ -33,9 +33,7 @@ subtitle = ""
   #   name = "Other"
   #   tag = "Demo"
 
-  How can I type
-  Ohhh
-  But there is not sign I can use :()
+  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -78,4 +76,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+I don't know where to type things
 
