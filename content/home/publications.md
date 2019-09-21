@@ -74,4 +74,4 @@ from a single chloroplast with confocal imaging fluorometer. [Plant Methods](htt
 
 ##### Non-peer reviewed publication
 - Tseng, Y.-C. 2019. Apply statistics on bird "listening". [Discovery](https://naturevancouver.ca/publications/discovery/), 47(1) (Submitted)
-- Tseng, Y.-C. 2018. Can statistics help ornithologists "hear" birds? [BranchLines](https://forestry.ubc.ca/publications/branchlines/), 29(3):11. [link](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf)
+- Tseng, Y.-C. 2018. Can statistics help ornithologists "hear" birds? [BranchLines](https://forestry.ubc.ca/publications/branchlines/), 29(3):11. ([link](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf))
