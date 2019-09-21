@@ -77,5 +77,11 @@ subtitle = ""
  css_class = ""
 +++
 
-I don't know where to type things
+### Professional projects
+- I did this
+- I did that
+
+### Personal projects
+- How about this
+- How about that
 
