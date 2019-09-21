@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 190  # Order that this section will appear.
 
-title = "Projects_test"
+title = "Projects"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project_test"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -32,6 +32,10 @@ subtitle = ""
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
+
+  How can I type
+  Ohhh
+  But there is not sign I can use :()
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
