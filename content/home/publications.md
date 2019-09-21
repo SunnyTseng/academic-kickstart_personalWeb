@@ -65,11 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-#{{% alert note %}}
-#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-#{{% /alert %}}
-
 ##### Peer reviewed publications
+- Ahhh the bird one
+- The physics
 
 ##### Non-peer reviewed publication
