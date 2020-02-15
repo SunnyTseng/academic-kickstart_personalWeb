@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc student
+role: MSc
 
 # Organizations/Affiliations
 organizations:
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! This is Sunny! I was born and raised in a beautiful country called Taiwan. The cold weather in Vancouver often makes me miss the sun, the beach, and the food in the nightmarkets. As an undergraduate student in National Taiwan University, I double majored in Physics and Forestry Conservation. During my graduate study in University of British Columbia, I continue pursuing my passion in developing mathimetical methods for conservation ecology. In particular, I am most interested in applying machine learning techniques in analyzing bioacoustic data. When I am not sitting in the office, you can often find me being outside recordings bird sounds, hiking, swimming, or staying home making artworks. 
+Hi! This is Sunny! I was born and raised in a beautiful country called Taiwan. As an undergraduate student in National Taiwan University, I double majored in Physics and Forestry Conservation. During my graduate study in University of British Columbia, I continued pursuing my passion in developing mathematical methods for conservation ecology. In particular, I am most interested in applying machine learning techniques in analyzing bioacoustic data. When I am not sitting in the office, you can often find me being outside recordings bird sounds, hiking, swimming, or staying home making artworks. 
 
-To know more about me, please refer to my CV and CV of Failures! :)
+To know more about me, please refer to my [CV]({{< ref "/documents/CV/CV_Sunny.pdf" >}}) and CV of Failures! :)
