@@ -73,5 +73,9 @@ Logistic occupancy model for audio recordings. [Avian Conservation and Ecology](
 from a single chloroplast with confocal imaging fluorometer. [Plant Methods](https://plantmethods.biomedcentral.com/), 13:43. ([link](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0194-2))
 
 ##### Non-peer reviewed publication
-- Tseng, Y.-C. 2019. Apply statistics on bird "listening". [Discovery](https://naturevancouver.ca/publications/discovery/), 47(1) (Submitted)
-- Tseng, Y.-C. 2018. Can statistics help ornithologists "hear" birds? [BranchLines](https://forestry.ubc.ca/publications/branchlines/), 29(3):11. ([link](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf))
+- Tseng, Y.-C. 2019. Innovative and conventional modelling for avian acoustic and fire severity analyses. UBC Theses and Dissertations. ([link](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0385980
+))
+
+- Tseng, Y.-C. 2019. Apply statistics on bird "listening". Discovery, 47(1):21-22. ([link](https://drive.google.com/file/d/1lZC8H246lFH-XCGI6vtBjXMIq1YqukUG/view))
+
+- Tseng, Y.-C. 2018. Can statistics help ornithologists "hear" birds? BranchLines, 29(3):11. ([link](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf))
