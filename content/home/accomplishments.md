@@ -20,10 +20,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Neural Networks and Deep Learning"
+  title = "[A post]({{< ref "/post/index.md" >}})"
   url = ""
   date_start = "2018-07-01"
   date_end = ""
+
+  [A post]({{< ref "/post/index.md" >}})
 
 [[item]]
   organization = "edX"
