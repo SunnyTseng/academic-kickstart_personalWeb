@@ -99,5 +99,3 @@ Chlorophyll fluorescence (CF) is a key indicator to study plant physiology or ph
 
 {{< figure library="true" src="projects/chlorophyll_1.jpg" lightbox="true" size="thumbnail">}}
 
-[A post]({{< ref "/post/index.md" >}})
-
