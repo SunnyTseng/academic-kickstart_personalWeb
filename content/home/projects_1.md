@@ -78,6 +78,9 @@ subtitle = ""
 +++
 
 #### Acoustic Monitoring for Migratory Birds in Northeastern Siberian Arctic Tundra
+{{< figure library="true" src="projects/tundra.jpg" title="A caption" lightbox="true" size="thumbnail">}}
+
+# [gallery category="87" link="file" columns="6" size="thumbnail"]
 
 #### Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model
 
@@ -85,8 +88,8 @@ subtitle = ""
 
 #### High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics
 
-{{< figure library="true" src="projects/tundra.jpg" title="A caption" lightbox="true" >}}
-- I did that
+
+
 
 ##### Personal projects
 - How about this
