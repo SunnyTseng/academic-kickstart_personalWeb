@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-#active = true  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 200  # Order that this section will appear.
 
 title = "Writing"
@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Neural Networks and Deep Learning"
+  title = "Neural Networks and Deep Learning ow"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = ""
   date_end = ""
   description = ""
 
