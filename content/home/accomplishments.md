@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "edX"
-  organization_url = "https://www.edx.org"
+  organization_url = ""
   title = "Blockchain Fundamentals"
   url = "{{< ref "/post/test.md" >}}"
-  certificate_url = "https://www.edx.org"
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
 
 [[item]]
   organization = "edX"
