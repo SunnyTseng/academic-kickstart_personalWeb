@@ -87,13 +87,13 @@ Avian bioacoustics research was greatly assisted by the introduction of autonomo
 
 {{< figure library="true" src="projects/analysis_1.jpg" lightbox="true" size="thumbnail">}}
 
-#### Previous fire severity enhances reburn severity: a case study in interior British Columbia, Canada (2017-2019)
+#### Previous Fire Severity Enhances Reburn Severity: A Case Study in Interior British Columbia, Canada (2017-2019)
 
 Forests in interior British Columbia (BC), Canada are naturally maintained by wildfires; however, wildfire characteristics in interior BC have been shifting with climate change, where longer, warmer, and drier summers may alter the existing fire regimes. For this, resources have been devoted to developing and applying innovative post-fire management strategies, in order to lower the probability of subsequent fire events and/or lower the severity of subsequent fires. This study aims to determine whether and how the severity of previous fire influenced the reburn severity in the Riske Creek are in interior BC, and provide insights into developing post-fire management strategies, in order to lower the probability of reburn and/or lower the reburn severity.
 
 {{< figure library="true" src="projects/fire_1.jpg" lightbox="true" size="thumbnail">}}
 
-#### High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics (2015-2016)
+#### High Spatio-Temporal-Resolution Detection of Chlorophyll Fluorescence Dynamics (2015-2016)
 
 Chlorophyll fluorescence (CF) is a key indicator to study plant physiology or photosynthesis efficiency. Conventionally, CF is characterized by fluorometers, which only allows ensemble measurement through wide-field detection. Here we demonstrated a fluorometer based on confocal imaging, that not only provides high contrast images, but also allows CF measurement with spatiotemporal resolution as high as micrometer and millisecond. Confocal imaging fluorometers provide micrometer and millisecond CF characterization, opening up unprecedented possibilities toward detailed spatiotemporal analysis of CF transients and its propagation dynamics, as well as photosynthesis efficiency analysis, on the scale of organelles, in a living plant.
 
