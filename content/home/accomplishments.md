@@ -25,8 +25,6 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = ""
 
-  [A post]({{< ref "/post/index.md" >}})
-
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
