@@ -21,11 +21,13 @@ date_format = "Jan 2006"
   organization = "edX"
   organization_url = ""
   title = "Blockchain Fundamentals"
-  url = "{{< ref "post/test.md" >}}"
+  url = ""
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
   description = ""
+
+  [test]{{< ref "post/test.md" >}}
 
 [[item]]
   organization = "edX"
