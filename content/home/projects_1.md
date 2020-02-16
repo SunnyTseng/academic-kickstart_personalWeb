@@ -77,8 +77,15 @@ subtitle = ""
  css_class = ""
 +++
 
-##### Professional projects
-- {{< figure library="true" src="projects/tundra.jpg" title="A caption" lightbox="true" >}}
+#### Acoustic Monitoring for Migratory Birds in Northeastern Siberian Arctic Tundra
+
+#### Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model
+
+#### Previous fire severity enhances reburn severity: a case study in interior British Columbia, Canada
+
+#### High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics
+
+{{< figure library="true" src="projects/tundra.jpg" title="A caption" lightbox="true" >}}
 - I did that
 
 ##### Personal projects
