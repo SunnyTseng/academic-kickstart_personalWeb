@@ -78,7 +78,8 @@ subtitle = ""
 +++
 
 #### Acoustic Monitoring for Migratory Birds in Northeastern Siberian Arctic Tundra
-{{< figure library="true" src="projects/tundra.jpg" title="A caption" lightbox="true" size="thumbnail">}}
+Indigirka River Delta is one of the most productive tundra area in Siberia that supports 40 – 60 migratory bird species each summer. Despite the magnificent avifauna, only few research expeditions had been conducted in the delta since it is difficult and expensive to survey with human observers. Automated acoustic recording systems are potential solutions enabling large scale monitoring. However, previous studies had shown the importance of evaluating the detection performance of recorders under spatially variable survey conditions in advance of implementation. In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys.
+{{< figure library="true" src="projects/tundra_1.jpg" lightbox="true" size="thumbnail">}}
 
 # [gallery category="87" link="file" columns="6" size="thumbnail"]
 
