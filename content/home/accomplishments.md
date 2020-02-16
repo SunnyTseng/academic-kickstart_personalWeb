@@ -22,10 +22,8 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = ""
-  date_start = "2018-03-01"
+  date_start = "2018-07-01"
   date_end = ""
-  description = ""
 
 [[item]]
   organization = "edX"
