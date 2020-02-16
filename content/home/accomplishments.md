@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Neural Networks and Deep Learning ow"
+  title = "Neural Networks and Deep Learning"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-03-01"
   date_end = ""
   description = ""
 
