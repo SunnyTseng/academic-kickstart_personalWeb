@@ -18,12 +18,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
-  organization_url = ""
-  title = "[A post]({{< ref "/post/index.md" >}})"
-  url = ""
-  date_start = "2018-07-01"
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Blockchain Fundamentals"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
   date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
 
 [[item]]
   organization = "edX"
