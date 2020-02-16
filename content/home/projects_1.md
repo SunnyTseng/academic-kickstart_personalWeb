@@ -78,7 +78,7 @@ subtitle = ""
 +++
 
 ##### Professional projects
-- I did this
+- {{< figure library="true" src="projects/tundra.jpg" title="A caption" lightbox="true" >}}
 - I did that
 
 ##### Personal projects
