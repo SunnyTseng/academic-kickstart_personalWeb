@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = "{{% staticref "documents/CV/CV_Sunny.pdf" "newtab" %}} CV {{% /staticref %}}"
 
 +++
 
