@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
   date_end = ""
-  description = "[test]({{< ref "post/test.md" >}})"
+  description = [test]({{< ref "post/test.md" >}})
 
 [[item]]
   organization = "edX"
