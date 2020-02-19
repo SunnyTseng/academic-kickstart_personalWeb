@@ -4,8 +4,8 @@ widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-bu
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 200  # Order that this section will appear.
-
 title = "Writing"
+
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,12 +18,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "edXXXX"
-  organization_url = ""
-  title = "Blockchain Fundamentals"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = ""
-  date_start = "2018-03-01"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
 
@@ -46,5 +46,5 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
-
+  
 +++
