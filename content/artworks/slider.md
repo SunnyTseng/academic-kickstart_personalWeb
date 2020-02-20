@@ -11,12 +11,16 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-# height = "calc(100vh - 70px)"
-width = "500px"
+ height = "calc(100vh - 70px)"
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "20px", "0", "20px"]
+[design]
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
