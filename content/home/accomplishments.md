@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "選擇離開的人有思念的理由"
+  title = "選擇離開的人，有思念的理由"
   url = "https://sunnytseng.netlify.com/post/選擇離開的人有思念的理由/index"
   certificate_url = ""
   date_start = "2020-01-01"
