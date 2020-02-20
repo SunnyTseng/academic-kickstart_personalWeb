@@ -82,5 +82,3 @@ Logistic regression based acoustic occupancy model. Bioacoustics. (In Press)
 - Tseng, Y.-C. 2018. Can statistics help ornithologists "hear" birds? BranchLines, 29(3):11. ([link](https://forestry.ubc.ca/files/2019/04/bl-29.3.pdf))
 
 - Tseng, Y.-C. 2016. 大學生專題經驗分享, 35:4-5. ([link](https://spacetime.phys.tw/vol_35/v35.pdf#page=4))
-
-Test
