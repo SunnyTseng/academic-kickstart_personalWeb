@@ -79,6 +79,9 @@ subtitle = ""
  - album: gallery
    image: gallery/IMG_0606_1.jpg
    caption: A caption
+ - album: gallery
+   image: gallery/IMG_0606_1.jpg
+   caption: A caption
 
 +++
 
