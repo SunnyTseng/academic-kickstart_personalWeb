@@ -78,3 +78,5 @@ subtitle = ""
 QAQ
 
 {{< figure src="TEST/IMG_5959.jpg" title="Why not showing" lightbox="true" >}}
+
+{{< figure library="true" src="projects/chlorophyll_1.jpg" lightbox="true" size="thumbnail">}}
