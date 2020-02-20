@@ -76,4 +76,4 @@ subtitle = ""
 +++
 
 QAQ
-{{< figure src="TEST/IMG_5709_1.jpg" title="A caption" lightbox="true" >}}
+{{< figure src="TEST/IMG_5959.jpg" title="Why not showing" lightbox="true" >}}
