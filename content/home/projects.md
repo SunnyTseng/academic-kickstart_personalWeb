@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 190  # Order that this section will appear.
 
 title = "Projects"
@@ -74,19 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-
- gallery_item:
- - album: gallery
-   image: IMG_0606_1.jpg
-   caption: A caption
- - album: gallery
-   image: IMG_0606_1.jpg
-   caption: A caption
-
 +++
-
-TAT
-
-{{< gallery >}}
-
-{{< figure library="true" src="projects/chlorophyll_1.jpg" lightbox="true" size="thumbnail">}}
