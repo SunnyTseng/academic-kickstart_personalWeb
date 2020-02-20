@@ -19,7 +19,7 @@ interval = false
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Artworks"
+  title = ""
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -39,20 +39,57 @@ interval = false
 
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = ""
+  content = ""
+  align = "center" 
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "gallery/IMG_5709_1.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_color = "#555" 
+  overlay_img = "gallery/IMG_0606_1.jpg"  
+  overlay_filter = 0  
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = ""
+  content = ""
+  align = "center" 
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#555" 
+  overlay_img = "gallery/IMG_1209_1.jpg"  
+  overlay_filter = 0  
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center" 
+
+  overlay_color = "#555" 
+  overlay_img = "gallery/IMG_1785_1.jpg"  
+  overlay_filter = 0  
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center" 
+
+  overlay_color = "#555" 
+  overlay_img = "gallery/IMG_2888_1.jpg"  
+  overlay_filter = 0  
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center" 
+
+  overlay_color = "#555" 
+  overlay_img = "gallery/IMG_4676_1.jpg"  
+  overlay_filter = 0  
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center" 
+
+  overlay_color = "#555" 
+  overlay_img = "gallery/IMG_5689.JPG"  
+  overlay_filter = 0  
+
 +++
