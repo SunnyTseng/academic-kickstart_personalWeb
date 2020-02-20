@@ -77,7 +77,7 @@ subtitle = ""
 
  gallery_item:
  - album: gallery
-   image: /gallery/IMG_5959.jpg
+   image: gallery/IMG_0606_1.jpg
    caption: A caption
 
 +++
