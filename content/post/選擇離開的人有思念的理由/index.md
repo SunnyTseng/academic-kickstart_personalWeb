@@ -13,8 +13,6 @@
 
 ![alt text](./IMG_2021_1.jpg "PC:洪孝宇，澎湖海邊")
 
-{{< figure src="IMG_2021_1.jpg" lightbox="true" >}}
-
 #### # II
 拜訪舊識成為了每次回台灣的重要行程。
 
