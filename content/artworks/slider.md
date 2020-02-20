@@ -106,15 +106,6 @@ height = "calc(100vh - 70px)"
   align = "center" 
 
   overlay_color = "#555" 
-  overlay_img = "gallery/IMG_9002.tif"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
   overlay_img = "gallery/IMG_9525_1.jpg"  
   overlay_filter = 0  
 
