@@ -80,7 +80,9 @@ subtitle = ""
 #### Acoustic Monitoring for Migratory Birds in Northeastern Siberian Arctic Tundra (2020-)
 Indigirka River Delta is one of the most productive tundra area in Siberia that supports 40 – 60 migratory bird species each summer. Despite the magnificent avifauna, only few research expeditions had been conducted in the delta since it is difficult and expensive to survey with human observers. Automated acoustic recording systems are potential solutions enabling large scale monitoring. However, previous studies had shown the importance of evaluating the detection performance of recorders under spatially variable survey conditions in advance of implementation. In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys.
 
-{{< figure library="true" src="projects/tundra_1.jpg" lightbox="true" size="thumbnail">}}
+#{{< figure library="true" src="projects/tundra_1.jpg" lightbox="true" size="thumbnail">}}
+
+{{< figure src="analysis_1.jpg" lightbox="true" >}}
 
 #### Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model (2017-2019)
 Avian bioacoustics research was greatly assisted by the introduction of autonomous recording units, which not only allow remote monitoring but also make large-scale studies possible. However, manual inspection of acoustic recordings becomes more challenging with increasingly larger datasets. In this study, we developed a logistic model to predict the probability of bird presence in audio recordings using sound frequency percentiles. The acoustic recordings covered bird songs and calls in a wide range of environments (e.g., grassland, forest, urban areas) along with the presence of noise due to weather, traffic, insects, and human speech. 
