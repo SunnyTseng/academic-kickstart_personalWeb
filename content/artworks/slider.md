@@ -4,7 +4,7 @@ widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 200 # Order that this section will appear.
-
+title = "Articles"
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -18,7 +18,7 @@ interval = false
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Artwork"
+  title = "Artworks"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
