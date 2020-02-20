@@ -8,7 +8,7 @@
 
 上回和 S 與 Z 到 Squamish，我指著遠方的山頭說，「That’s my dream this summer!」。那是 Black Tusk，遠看就像台灣的大霸尖山。「Sunny, we will take you there.」他們說。
 
-![alt text](IMG_5083.jpg "")
+![alt text](IMG_5083.JPG "")
 
 #### # II
 熊袋，似乎是個在台灣不存在的東西，但在這裡是個登山的標準配備。
