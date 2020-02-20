@@ -34,7 +34,6 @@ height = "calc(100vh - 70px)"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-  Test
 
 [[item]]
   title = "Left"
