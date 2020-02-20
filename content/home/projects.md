@@ -73,9 +73,18 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+
+ gallery_item:
+ - album: gallery
+   image: /gallery/IMG_5959.jpg
+   caption: A caption
+
 +++
 
-QAQ
+TAT
+
+{{< gallery >}}
 
 {{< figure src="TEST/IMG_5959.jpg" title="Why not showing" lightbox="true" >}}
 
