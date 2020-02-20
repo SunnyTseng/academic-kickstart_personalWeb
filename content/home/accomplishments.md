@@ -37,6 +37,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "畢業季"
+  url = "https://sunnytseng.netlify.com/post/畢業季/index"
+  certificate_url = ""
+  date_start = "2019-11-01"
+  date_end = ""
+  description = ""
 
 
 +++
