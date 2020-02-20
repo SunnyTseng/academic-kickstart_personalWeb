@@ -48,6 +48,3 @@ date_format = "Jan 2006"
   description = ""
 
 +++
-
-[test]({{< ref "post/test.md" >}})
-{{% staticref "documents/CV/CV_Sunny.pdf" "newtab" %}} CV {{% /staticref %}}
