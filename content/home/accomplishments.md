@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   title = "選擇離開的人有思念的理由"
   url = "https://sunnytseng.netlify.com/post/選擇離開的人有思念的理由/index"
   certificate_url = ""
-  date_start = "2020-01"
+  date_start = "2020-01-01"
   date_end = ""
   description = ""
 
