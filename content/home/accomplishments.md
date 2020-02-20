@@ -18,12 +18,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "CourserR"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://sunnytseng.netlify.com/post/選擇離開的人有思念的理由/index"
-  date_start = "2018-10-01"
+  organization = ""
+  organization_url = ""
+  title = "選擇離開的人有思念的理由"
+  url = "https://sunnytseng.netlify.com/post/選擇離開的人有思念的理由/index"
+  certificate_url = ""
+  date_start = "2020-01"
   date_end = ""
   description = ""
 
