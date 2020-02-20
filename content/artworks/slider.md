@@ -5,6 +5,7 @@ headless = true # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 200 # Order that this section will appear.
 
+
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval = false
@@ -13,14 +14,6 @@ interval = false
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
  height = "calc(100vh - 70px)"
 
-[design]
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 3
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
