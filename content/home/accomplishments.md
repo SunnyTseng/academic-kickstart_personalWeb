@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "https://sunnytseng.netlify.com/post/選擇離開的人有思念的理由/選擇離開的人有思念的理由"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
@@ -49,6 +49,5 @@ date_format = "Jan 2006"
 
 +++
 
-Wu
 [test]({{< ref "post/test.md" >}})
 {{% staticref "documents/CV/CV_Sunny.pdf" "newtab" %}} CV {{% /staticref %}}
