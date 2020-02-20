@@ -77,10 +77,10 @@ subtitle = ""
 
  gallery_item:
  - album: gallery
-   image: gallery/IMG_0606_1.jpg
+   image: IMG_0606_1.jpg
    caption: A caption
  - album: gallery
-   image: gallery/IMG_0606_1.jpg
+   image: IMG_0606_1.jpg
    caption: A caption
 
 +++
@@ -88,7 +88,5 @@ subtitle = ""
 TAT
 
 {{< gallery >}}
-
-{{< figure src="TEST/IMG_5959.jpg" title="Why not showing" lightbox="true" >}}
 
 {{< figure library="true" src="projects/chlorophyll_1.jpg" lightbox="true" size="thumbnail">}}
