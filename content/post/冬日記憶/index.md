@@ -1,7 +1,19 @@
-# 冬日記憶
+---
+title: 冬日記憶
+subtitle: 與麗貞學姊、孝宇學長在雪城度過的，那個比火星還冷的冬天
+summary: 「在冬天，我們過著與內心相處的生活，我們的生命在此時是溫暖且愉悅的。」--《湖濱散記》。又是一個多月前的故事了。當時趁著學校放假、助教跟研究工作暫告一段落，偷偷瞞著老師又飛到了遠方。我在地圖上...
+date: 2019-02-01
 
-2019 Feburary
-
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+---
 
 #### # I
 「在冬天，我們過著與內心相處的生活，我們的生命在此時是溫暖且愉悅的。」--《湖濱散記》。
@@ -67,4 +79,4 @@ Prince Albert 國家公園位在 Saskatchewan 南方溫帶草原與寒帶針葉�
 
 “Most people are on the world, not in it.” said by John Muir. I say, winter is one of the moments that you can truly listen to your heart. Great appreciation to this wonderful, beautiful, and cheerful winter in Saskatoon. Great appreciation to the moment that I can feel my heart.
 
-![alt text](IMG_8991.jpg "")
+![alt text](featured.jpg "")
