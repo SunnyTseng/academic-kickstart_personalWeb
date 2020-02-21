@@ -1,6 +1,19 @@
-# Bird Notes II
+---
+title: Bird Notes II
+subtitle: 那些在溫哥華遇見的鳥事
+summary: Peter, my lovely neighbor, is a wonderful natural observer and a professional nest box (巢箱) builder. It was a great pleasure to know him and get involved in his...
+date: 2019-04-01
 
-2019 April
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+---
 
 #### # I
 Peter, my lovely neighbor, is a wonderful natural observer and a professional nest box (巢箱) builder. It was a great pleasure to know him and get involved in his projects. Along with Stella and Derek, we went on a 5-day field trip in a remote area called Big Bar Lake for checking nest boxes. A total of 52 boxes were set in Big Bar Lake and those boxes have been checked annually for the last 10 years – the species of bird nested in the box was recorded and the nesting condition was measured. (It is like a graduate student thesis research!)
@@ -215,4 +228,4 @@ PS. 仍然是 Val 的忠實粉絲，自己也要好好加油把文章寫完投�
 
 PS. 應該是鳥兒系列的最後一篇文章了，若有機會的話，下一個系列想來分享這幾個月來的錄音故事們（磨刀霍霍）。
 
-![alt text](IMG_5709_1.jpg "")
+![alt text](featured.jpg "")
