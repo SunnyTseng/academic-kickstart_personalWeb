@@ -1,5 +1,5 @@
 ---
-title: Bird Notes II (鳥兒筆記)
+title: 鳥兒筆記-II
 subtitle: 那些在溫哥華遇見的鳥事
 summary: Peter, my lovely neighbor, is a wonderful natural observer and a professional nest box (巢箱) builder. It was a great pleasure to know him and get involved in his...
 date: 2019-04-01

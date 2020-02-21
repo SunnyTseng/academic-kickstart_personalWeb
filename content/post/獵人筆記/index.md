@@ -60,7 +60,7 @@ John 又從地下室搬出了三把槍，22 cal rifle、243 rifle，和電影上
 噢，如果說 Chilcotinian是勇敢而自信的代名詞的話，那麼我很希望，我是的。
 
 
-![alt text](featured).jpg "")
+![alt text](featured.jpg "")
 
 #### # IV
 「Sunny, you will be a great hunter if you want.」。如果有機會我真的很想嘗試，一次也好。
