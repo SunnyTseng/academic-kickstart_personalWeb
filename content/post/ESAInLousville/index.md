@@ -1,6 +1,19 @@
-# ESA in Lousville
+---
+title: ESA in Lousville
+subtitle: 和 Chris, Pedro, Pablo 一起度過，如營隊般的 ESA 會議
+summary: 這回千里迢迢的飛到了美國東岸的小鎮，來到了一年一度的生態學盛事。參加研討會，最讓人興奮的莫過於巧遇舊朋友、認識新朋友了。本日最經典，莫過於這位照片裡右二的阿伯。我:「阿伯你是從哪裡來的?」...
+date: 2019-08-01
 
-2019 August
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+---
 
 #### # I
 這回千里迢迢的飛到了美國東岸的小鎮，來到了一年一度的生態學盛事。參加研討會，最讓人興奮的莫過於巧遇舊朋友、認識新朋友了。本日最經典，莫過於這位照片裡右二的阿伯。
@@ -20,7 +33,7 @@
 
 看來，這個機運必須好好把握啊!!好想去聽聽那在南半球的聲音。
 
-![alt text](IMG-20190810-WA0001.jpg "PC:洪孝宇，澎湖海邊")
+![alt text](IMG-20190810-WA0001.jpg "")
 
 #### # II
 今天跟著 Chris 來到他在 Ohio 河畔的 Biology Field Station，這個研究站自1971年至今，已經收集了近50年的野外資料，除了基本的監測水溫、水位、酸鹼值、微生物多樣性，他們也做魚類調查、貝類寄生（Parasitic）等研究。
@@ -61,7 +74,7 @@ Pablo:「我也是喔!」
 
 PS. 最喜歡這些可愛的朋友們。
 
-![alt text](IMG_6025_1.jpg "")
+![alt text](featured.jpg "")
 
 #### # V
 ESA 的最後一篇分享，獻給這兩位帥氣的男孩、我這幾天來的最佳玩伴。
