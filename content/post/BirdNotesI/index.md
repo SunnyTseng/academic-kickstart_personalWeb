@@ -1,5 +1,5 @@
 ---
-title: Bird Notes I (鳥兒筆記)
+title: 鳥兒筆記 Bird Notes I 
 subtitle: 那些在溫哥華遇見的鳥事
 summary: 小時候基礎沒打好，是時候該好好的從頭學起了，既興奮又期待。鳥類構造-- 覺得畫畫可以讓學習變成一件好浪漫的事情...
 date: 2018-09-01
