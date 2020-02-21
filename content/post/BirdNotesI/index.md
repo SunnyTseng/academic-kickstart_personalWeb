@@ -1,20 +1,13 @@
 ---
-title: Bird Notes I
-subtitle: 那些在溫哥華遇見的鳥事
-summary: 小時候基礎沒打好，是時候該好好的從頭學起了，既興奮又期待。鳥類構造-- 覺得畫畫可以讓學習變成一件好浪漫的事情...
-date: "2018-09-01"
+title: Writing technical content in Academic
+date: 2019-07-12
 math: true
 diagram: true
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
-  caption: ''
-  focal_point: ""
-  preview_only: false
+  placement: 3
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
+
 
 #### # I
 小時候基礎沒打好，是時候該好好的從頭學起了，既興奮又期待。
