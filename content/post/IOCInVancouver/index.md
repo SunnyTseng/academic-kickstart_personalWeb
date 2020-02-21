@@ -1,3 +1,20 @@
+---
+title: IOC in Vancouver
+subtitle: 記憶深刻的轉捩點，因為 IOC 而聚集的鳥人們，無限重要
+summary: Vancouver is the site of the 27th International Ornithological Congress (IOC) and is now being occupied by birders from all around the world. I was really lucky to be selected as one of the speakers (my third international meeting, first oral presentation.)....
+date: 2019-08-01
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+---
+
 # IOC in Vancouver
 
 2018 August
@@ -72,7 +89,7 @@ Bird sound audio analysis is my side project of the master study. I was truly lu
 
 “The only person you need to impress is yourself.”—I especially appreciated one of my friends, David, who told me this before my presentation.
 
-![alt text](IMG_8543_1.jpg "")
+![alt text](featured.jpg "")
 
 #### # VII
 Doing research is like painting (and anything else), requires lots of efforts, time, and hard working. However, things always become easier when having great partners around. Feel really blessed to know/work with these wonderful people. 
