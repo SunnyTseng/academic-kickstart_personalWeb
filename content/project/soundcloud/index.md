@@ -1,5 +1,5 @@
 ---
-title: Soundscapes in SoundCloud 
+title: Soundscapes SoundCloud 
 summary: Other than bird sounds, I have been recording soundscapes such as sounds of ocean, river, and interviews.
 tags:
 - Soundscapes

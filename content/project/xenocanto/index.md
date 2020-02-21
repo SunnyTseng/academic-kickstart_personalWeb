@@ -1,5 +1,5 @@
 ---
-title: Bird Sound in Xeno-Canto 
+title: Bird Sounds Xeno-Canto 
 summary: I have been lucky enough to be a recordist of XC, where I upload all my bird sound recordings.
 tags:
 - Birds
