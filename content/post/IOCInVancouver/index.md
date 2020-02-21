@@ -15,11 +15,6 @@ image:
   preview_only: false
 ---
 
-# IOC in Vancouver
-
-2018 August
-
-
 #### # I
 Vancouver is the site of the 27th International Ornithological Congress (IOC) and is now being occupied by birders from all around the world. I was really lucky to be selected as one of the speakers (my third international meeting, first oral presentation.). The most exciting thing, of course, is to meet people/birders/researchers from different places with all sorts of interesting projects. 
 

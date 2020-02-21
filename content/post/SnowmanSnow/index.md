@@ -1,6 +1,19 @@
-# Snowman Snow
+---
+title: Snowman Snow
+subtitle: The Christmas time of a year, the time of visiting this wonderful place
+summary: On the way north. It has been a year since last time visiting Cariboo, one of my favourite region of British Columbia. Chilliwack, Cache Creek, Clinton, 100 Mile House, Lac la Hache, 150 Mile House, Williams Lake...
+date: 2019-12-01
 
-2019 December
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+---
 
 
 #### # I
@@ -47,7 +60,7 @@ Wolf howling, the sound that I have long been waiting for.
 I belong everywhere, but nowhere.
 
 ![alt text](IMG_8042_1.jpg "")
-![alt text](IMG_8504_1.jpg "")
+![alt text](featured.jpg "")
 ![alt text](IMG_8572_1.jpg "")
 ![alt text](IMG_8592_1.jpg "")
 ![alt text](IMG_8675_1.jpg "")
