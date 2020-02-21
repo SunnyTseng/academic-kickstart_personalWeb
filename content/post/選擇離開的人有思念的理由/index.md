@@ -1,6 +1,19 @@
-# 選擇離開的人，有思念的理由
+---
+title: 選擇離開的人，有思念的理由
+subtitle: 我想念你們，想念台灣，想念土地的熟悉與溫暖，尤其想念你
+summary: 這次很默默地回台灣一個月。本以為自己可以用一段文字、一張照片總結這個月的生活，卻發現回憶已經超乎短短的篇幅所能敘述。明明是自己的家鄉，一切應該如故，但這三十天裡見人見景，卻像翻起了塵封已久的記憶，好像...
+date: 2020-01-01
 
-2020 January
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+---
 
 
 #### # I
@@ -11,7 +24,7 @@
 
 不知不覺就快把台灣繞了一圈。想與你們分享那個我所愛的、所厭惡的、所依戀的以及陌生又熟悉的，我的家園。
 
-![alt text](./IMG_2021_1.jpg "PC:洪孝宇，澎湖海邊")
+![alt text](featured.jpg "PC:洪孝宇，澎湖海邊")
 
 #### # II
 拜訪舊識成為了每次回台灣的重要行程。
