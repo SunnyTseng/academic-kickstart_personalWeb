@@ -2,13 +2,12 @@
 title: Bird Notes I
 subtitle: 那些在溫哥華預見的鳥事
 date: 2018-09-01
-authors:
-- admin
-tags: []
-categories: []
-projects: []
-featured: false
-draft: false
+
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
 ---
 
 #### # I
