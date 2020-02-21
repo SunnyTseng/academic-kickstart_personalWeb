@@ -1,6 +1,19 @@
-# 獵人筆記
+---
+title: 獵人筆記
+subtitle: 初次與心中最美好的那片土地，相遇的故事
+summary: 清晨五點，門外的木板嘎嘎作響，我躺在床上眼睛微張，陽光灑進小木屋裡襯著牆、襯著地板，整個空間輝映著溫暖明亮的橙黃色調。這溫暖的地方就是我這幾天的家、一個屬於獵人家庭的木屋。...
+date: 2017-12-01
 
-2018 June
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+---
 
 
 #### # I
@@ -47,7 +60,7 @@ John 又從地下室搬出了三把槍，22 cal rifle、243 rifle，和電影上
 噢，如果說 Chilcotinian是勇敢而自信的代名詞的話，那麼我很希望，我是的。
 
 
-![alt text](IMG_4430.jpg "")
+![alt text](featured).jpg "")
 
 #### # IV
 「Sunny, you will be a great hunter if you want.」。如果有機會我真的很想嘗試，一次也好。
