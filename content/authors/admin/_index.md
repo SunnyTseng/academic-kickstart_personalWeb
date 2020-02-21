@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc
+role: Master of Science
 
 # Organizations/Affiliations
 organizations:
 - name: University of British Columbia
   url: ""
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (displayed in user profile at end of posts)
+bio: A bird lover, a sound recordist, an artist for conservation.
 
 # interests:
 # - Machine Learning
