@@ -1,6 +1,6 @@
 ---
 title: SoundCloud Soundscapes
-summary: Other than bird sounds, I have been recording soundscapes such as ocean, river, and interviews.
+summary: Other than bird sounds, I have been recording soundscapes such as sounds of ocean, river, and interviews.
 tags:
 - Soundscapes
 date: "2020-02-20T00:00:00Z"
