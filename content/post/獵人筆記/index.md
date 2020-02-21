@@ -2,7 +2,7 @@
 title: 獵人筆記
 subtitle: 初次與心中最美好的那片土地，相遇的故事
 summary: 清晨五點，門外的木板嘎嘎作響，我躺在床上眼睛微張，陽光灑進小木屋裡襯著牆、襯著地板，整個空間輝映著溫暖明亮的橙黃色調。這溫暖的地方就是我這幾天的家、一個屬於獵人家庭的木屋。...
-date: 2017-12-01
+date: 2018-07-01
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

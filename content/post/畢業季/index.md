@@ -1,6 +1,19 @@
-# 畢業季
+---
+title: 畢業季
+subtitle: 起起落落的情緒，輝煌的成果，與溫暖的人心
+summary: 清晨五點，門外的木板嘎嘎作響，我躺在床上眼睛微張，陽光灑進小木屋裡襯著牆、襯著地板，整個空間輝映著溫暖明亮的橙黃色調。這溫暖的地方就是我這幾天的家、一個屬於獵人家庭的木屋。...
+date: 2019-11-01
 
-2019 November
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+---
 
 
 #### # I
@@ -42,7 +55,7 @@ Trembling Aspen（楊屬下的北美原生種）伴我度過了兩個月在Willi
 
 PS. 好想要有一張從台上往下看的照片，小小暗暗的房間與滿滿的人，真的很壯觀。 
 
-![alt text](defense.jpg "PC:Nguyet Anh Nguyen")
+![alt text](featured.jpg "PC:Nguyet Anh Nguyen")
 
 #### # IV
 原本以為結束口試之後會大哭的，結果沒有。反而是等到回家細翻著這些小禮物們，才自己在房間又哭又笑的。尤其是 Moon 送的小卡片裡，竟然放了我們兩年前的合照，兩年！竟然這樣轉眼就兩年了。而一看到 Sam, Zoe 送的 Gin & Tonic，也是一整個傻眼大笑（我們每次聚在一起都會來上一杯），看來這個冬天可以窩在家裡不怕冷了。
