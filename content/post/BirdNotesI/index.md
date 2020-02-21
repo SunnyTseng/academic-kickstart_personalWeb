@@ -2,8 +2,9 @@
 title: Bird Notes I
 subtitle: 那些在溫哥華預見的鳥事
 summary: 小時候基礎沒打好，是時候該好好的從頭學起了，既興奮又期待。鳥類構造-- 覺得畫畫可以讓學習變成一件好浪漫的事情...
-date: 2018-09-01
-
+date: "2018-09-01"
+math: true
+diagram: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
