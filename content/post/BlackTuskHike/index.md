@@ -1,5 +1,5 @@
 ---
-title: Black Tusk Hike
+title: Black Tusk Hike (夏登))
 subtitle: 和 Sam, Zoe, Rashika 一起走過的山
 summary: 想當初來到加拿大時，隨機只能帶上兩件23公斤的行李，其中一件就奉獻給登山背包和心愛的登山用具們（i.e.,帳篷、睡袋、睡墊…），畢竟又是個山巒綿延的國度，怎麼能抵擋得住陽光和綠的誘惑。上回...
 date: 2019-07-01
