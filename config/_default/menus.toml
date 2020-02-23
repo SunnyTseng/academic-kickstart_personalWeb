@@ -20,12 +20,12 @@
 
 [[main]]
   name = "Artworks"
-  url = "artworks/"
+  url = "gallery/"
   weight = 50
 
 [[main]]
   name = "Articles"
-  url = "gallery/"
+  url = "articles/"
   weight = 55
 
 [[main]]
