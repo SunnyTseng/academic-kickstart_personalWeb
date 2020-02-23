@@ -1,7 +1,7 @@
 ---
 title: IOC in Vancouver (國際鳥類學研討會)
 subtitle: 記憶深刻的轉捩點，因為 IOC 而聚集的鳥人們，無限重要
-summary: Vancouver is the site of the 27th International Ornithological Congress (IOC) and is now being occupied by birders from all around the world. I was really lucky to be selected as one of the speakers (my third international meeting, first oral presentation.)....
+summary: Vancouver is the site of the 27th International Ornithological Congress (IOC) and is now being occupied by birders from all around the world. I was really lucky to be selected as one of the speakers...
 date: 2018-08-01
 
 # Featured image
