@@ -74,6 +74,4 @@ user_groups:
 
 Hi, this is Sunny! I was born and raised in a beautiful country called Taiwan.  As an undergraduate student in National Taiwan University, I double majored in Physics and Forestry Conservation. During my graduate study in University of British Columbia, I continued pursuing my passion in developing mathematical methods for conservation ecology. In particular, I am most interested in applying machine learning techniques in analyzing bioacoustic data. 
 
-When I am not sitting in the office, you can often find me being outside recordings bird sounds, hiking, swimming, or staying home drawing. I also love traveling, reading, and creative writing. To know more about me, please refer to my {{% staticref "CV_Sunny.pdf" %}} CV {{% /staticref %}}! : smile :
-
-
+When I am not sitting in the office, you can often find me being outside recordings bird sounds, hiking, swimming, or staying home drawing. I also love traveling, reading, and creative writing. To know more about me, please refer to my {{% staticref "CV_Sunny.pdf" %}} CV {{% /staticref %}}! :smile:
