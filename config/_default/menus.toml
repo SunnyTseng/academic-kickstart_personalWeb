@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Artworks"
-  url = "gallery/"
+  url = "artworks/"
   weight = 50
 
 [[main]]
