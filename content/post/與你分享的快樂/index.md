@@ -2,7 +2,7 @@
 title: 與你分享的快樂
 subtitle: 和鍾易一起度過的冬日溫哥華，與朋友相聚的美好
 summary: 八月底的一場旅行中掉了證件，護照、學生簽證跟錢包全都遺失，好不容易平安回到加拿大，又因為簽證...
-date: 2019-11-01
+date: 2019-11-12
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

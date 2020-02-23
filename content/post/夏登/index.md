@@ -2,7 +2,7 @@
 title: 夏登
 subtitle: 和 Sam, Zoe, Rashika 一起走過的山
 summary: 想當初來到加拿大時，隨機只能帶上兩件23公斤的行李，其中一件就奉獻給登山背包和心愛的登山用具們...
-date: 2019-07-01
+date: 2019-07-12
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

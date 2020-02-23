@@ -1,8 +1,8 @@
 ---
 title: 湖濱筆記
 subtitle: 和餅餅一起度過的 Banff 旅行，美好的女孩與美好的記憶
-summary: 八月底的一場旅行中掉了證件，護照、學生簽證跟錢包全都遺失，好不容易平安回到加拿大，又因為簽證...
-date: 2019-04-01
+summary: 大概是一年前的這個時候，從圖書館借出了一本英文版的《湖濱散記》，從那時就對於一個人的湖濱生活有著浪漫的想像S...
+date: 2019-04-16
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

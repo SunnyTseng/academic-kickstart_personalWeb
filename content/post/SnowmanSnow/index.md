@@ -2,7 +2,7 @@
 title: Snowman Snow
 subtitle: The Christmas time of a year, the time of visiting this wonderful place
 summary: On the way north. It has been a year since last time visiting Cariboo, one of my favourite region of British Columbia. Chilliwack, Cache Creek, Clinton, 100 Mile House, Lac la Hache, 150 Mile House, Williams Lake...
-date: 2019-12-01
+date: 2019-12-20
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -2,7 +2,7 @@
 title: 北一女孩
 subtitle: 在海外度過的北一日
 summary: 親愛的北一女孩們，妳們都好嗎?我是個不善於記憶的人，十年了，那些高中生活的點點滴滴，早已經從我僅有...
-date: 2019-12-01
+date: 2019-12-12
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
