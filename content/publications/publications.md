@@ -71,7 +71,8 @@ subtitle = ""
 - Tseng, Y.-C., Eskelson, B.N.I., Martin, K., and LeMay, V. 2020. Automatic bird sound detection:
 Logistic regression based acoustic occupancy model. Bioacoustics. (In Press)
 
-- Tseng, Y.-C., and Chu, S.-W. 2017. High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer. Plant Methods, 13:43. ([link](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0194-2))
+- Tseng, Y.-C., and Chu, S.-W. 2017. High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer. Plant Methods, 13:43. ([link](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0194-2)) {{% staticref "YCT_SWC_CF_2017_PlantMethods.pdf" %}} (link)) {{% /staticref %}}
+
 
 ##### Non-peer reviewed publications
 - Tseng, Y.-C. 2019. Innovative and conventional modelling for avian acoustic and fire severity analyses. UBC Theses and Dissertations. ([link](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0385980
