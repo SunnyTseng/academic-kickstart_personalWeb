@@ -69,9 +69,9 @@ subtitle = ""
 - Tseng, Y.-C., and Eskelson, B.N.I. 2020. Previous fire severity enhances reburn severity: a case study in interior British Columbia, Canada. Journal of Ecosystem and Management. (In Preparation)
 
 - Tseng, Y.-C., Eskelson, B.N.I., Martin, K., and LeMay, V. 2020. Automatic bird sound detection:
-Logistic regression based acoustic occupancy model. Bioacoustics. ({{% staticref "YCT_BNIE_KM_VL_2020_Vogel_Bioacoustics.pdf" %}} link {{% /staticref %}})
+Logistic regression based acoustic occupancy model. Bioacoustics. ({{% staticref "YCT_BNIE_KM_VL_2020_Vogel_Bioacoustics.pdf" %}}link{{% /staticref %}})
 
-- Tseng, Y.-C., and Chu, S.-W. 2017. High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer. Plant Methods, 13:43. ({{% staticref "YCT_SWC_CF_2017_PlantMethods.pdf" %}} link {{% /staticref %}}) 
+- Tseng, Y.-C., and Chu, S.-W. 2017. High spatio-temporal-resolution detection of chlorophyll fluorescence dynamics from a single chloroplast with confocal imaging fluorometer. Plant Methods, 13:43. ({{% staticref "YCT_SWC_CF_2017_PlantMethods.pdf" %}}link{{% /staticref %}}) 
 
 
 ##### Non-peer reviewed publications
