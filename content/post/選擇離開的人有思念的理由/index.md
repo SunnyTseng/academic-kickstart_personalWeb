@@ -4,6 +4,10 @@ subtitle: 我想念你們，想念台灣，想念土地的熟悉與溫暖，尤�
 summary: 這次很默默地回台灣一個月。本以為自己可以用一段文字、一張照片總結這個月的生活，卻發現回憶已經超乎...
 date: 2020-01-02
 
+commentable: true
+reading_time: true
+profile: true
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
