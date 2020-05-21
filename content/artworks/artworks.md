@@ -1,121 +1,81 @@
 +++
-# Slider widget.
-widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false # This file represents a page section.
+# A Projects section created with the Portfolio widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 200 # Order that this section will appear.
+weight = 190  # Order that this section will appear.
 
 title = "Artworks"
+subtitle = ""
 
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+[content]
+  # Page type to display. E.g. project.
+  page_type = "artworks_drawings"
+  
+  # Page order. Descending (desc) or ascending (asc) date.
+  # order = "desc"
 
-# Slide height (optional).
-# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "calc(100vh - 70px)"
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+  
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
+  
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
+  
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"
 
-# Slides.
-# Duplicate an `[[item]]` block to add more slides.
-[[item]]
-  title = ""
-  content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "gallery/IMG_5709_1.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
 
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  # cta_label = "Get Academic"
-  # cta_url = "https://sourcethemes.com/academic/"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
 
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_0606_1.jpg"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_1209_1.jpg"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_1785_1.jpg"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_2888_1.jpg"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_4676_1.jpg"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_5689.JPG"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_9001.jpg"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_9525_1.jpg"  
-  overlay_filter = 0  
-
-[[item]]
-  title = ""
-  content = ""
-  align = "center" 
-
-  overlay_color = "#555" 
-  overlay_img = "gallery/IMG_9900.jpg"  
-  overlay_filter = 0  
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 
 +++
+
