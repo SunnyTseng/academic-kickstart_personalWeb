@@ -26,7 +26,7 @@ summary: This study aims to determine whether and how the severity of previous f
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 #links:
 #- name: Custom Link

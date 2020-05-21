@@ -26,7 +26,7 @@ summary: In this study, we will investigate the utility of an acoustic recorder 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 #links:
 #- name: Custom Link
