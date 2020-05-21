@@ -1,9 +1,9 @@
 ---
-title: "Acoustic Monitoring for Migratory Birds in Northeastern Siberian Arctic Tundra"
+title: "Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model"
 authors:
 - admin
 
-date: "2020-07-01T00:00:00Z"
+date: "2018-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Funded by National Geographic 
-# publication_short: In *Source Themes Conference*
+publication: Funded by Soundscape Association of Taiwan
+publication_short: Funded by Soundscape Association of Taiwan
 
-abstract: Indigirka River Delta is one of the most productive tundra area in Siberia that supports 40 – 60 migratory bird species each summer. Despite the magnificent avifauna, only few research expeditions had been conducted in the delta since it is difficult and expensive to survey with human observers. Automated acoustic recording systems are potential solutions enabling large scale monitoring. However, previous studies had shown the importance of evaluating the detection performance of recorders under spatially variable survey conditions in advance of implementation. In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys in the Siberian Arctic Tundra.
+abstract: Avian bioacoustics research was greatly assisted by the introduction of autonomous recording units, which not only allow remote monitoring but also make large-scale studies possible. However, manual inspection of acoustic recordings becomes more challenging with increasingly larger datasets. In this study, we developed a logistic model to predict the probability of bird presence in audio recordings using sound frequency percentiles. The acoustic recordings covered bird songs and calls in a wide range of environments (e.g., grassland, forest, urban areas) along with the presence of noise due to weather, traffic, insects, and human speech.
 
 # Summary. An optional shortened abstract.
-summary: In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys in the Siberian Arctic Tundra.
+summary: In this study, we developed a logistic model to predict the probability of bird presence in audio recordings using sound frequency percentiles.
 
 tags:
 - Source Themes
@@ -43,7 +43,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Siberian arctic tundra'
+  caption: 'Recording system'
   focal_point: ""
   preview_only: false
 
@@ -63,4 +63,4 @@ projects: []
 # slides: example
 ---
 
-Indigirka River Delta is one of the most productive tundra area in Siberia that supports 40 – 60 migratory bird species each summer. Despite the magnificent avifauna, only few research expeditions had been conducted in the delta since it is difficult and expensive to survey with human observers. Automated acoustic recording systems are potential solutions enabling large scale monitoring. However, previous studies had shown the importance of evaluating the detection performance of recorders under spatially variable survey conditions in advance of implementation. In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys in the Siberian Arctic Tundra.
+Avian bioacoustics research was greatly assisted by the introduction of autonomous recording units, which not only allow remote monitoring but also make large-scale studies possible. However, manual inspection of acoustic recordings becomes more challenging with increasingly larger datasets. In this study, we developed a logistic model to predict the probability of bird presence in audio recordings using sound frequency percentiles. The acoustic recordings covered bird songs and calls in a wide range of environments (e.g., grassland, forest, urban areas) along with the presence of noise due to weather, traffic, insects, and human speech.
