@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 190  # Order that this section will appear.
 
-title = "Recordings"
+title = "Artworks"
 subtitle = ""
 
 [content]
@@ -13,7 +13,7 @@ subtitle = ""
   page_type = "artworks_1_drawings"
   
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  # order = "desc"
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
