@@ -1,9 +1,9 @@
 ---
-title: "Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model"
+title: "Previous Fire Severity Enhances Reburn Severity: A Case Study in Interior British Columbia, Canada"
 authors:
 - admin
 
-date: "2018-01-01T00:00:00Z"
+date: "2017-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Funded by Soundscape Association of Taiwan
-publication_short: Funded by Soundscape Association of Taiwan
+publication: Funded by NSERC
+publication_short: Funded by NSERC
 
-abstract: Avian bioacoustics research was greatly assisted by the introduction of autonomous recording units, which not only allow remote monitoring but also make large-scale studies possible. However, manual inspection of acoustic recordings becomes more challenging with increasingly larger datasets. In this study, we developed a logistic model to predict the probability of bird presence in audio recordings using sound frequency percentiles. The acoustic recordings covered bird songs and calls in a wide range of environments (e.g., grassland, forest, urban areas) along with the presence of noise due to weather, traffic, insects, and human speech.
+abstract: Forests in interior British Columbia (BC), Canada are naturally maintained by wildfires; however, wildfire characteristics in interior BC have been shifting with climate change, where longer, warmer, and drier summers may alter the existing fire regimes. For this, resources have been devoted to developing and applying innovative post-fire management strategies, in order to lower the probability of subsequent fire events and/or lower the severity of subsequent fires. This study aims to determine whether and how the severity of previous fire influenced the reburn severity in the Riske Creek are in interior BC, and provide insights into developing post-fire management strategies, in order to lower the probability of reburn and/or lower the reburn severity.
 
 # Summary. An optional shortened abstract.
-summary: In this study, we developed a logistic model to predict the probability of bird presence in audio recordings using sound frequency percentiles.
+summary: This study aims to determine whether and how the severity of previous fire influenced the reburn severity in the Riske Creek are in interior BC, and provide insights into developing post-fire management strategies, in order to lower the probability of reburn and/or lower the reburn severity.
 
 tags:
 - Source Themes
@@ -43,7 +43,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Recording system'
+  caption: 'Serious fire in the Williams Lake area'
   focal_point: ""
   preview_only: false
 
@@ -63,4 +63,4 @@ projects: []
 # slides: example
 ---
 
-Avian bioacoustics research was greatly assisted by the introduction of autonomous recording units, which not only allow remote monitoring but also make large-scale studies possible. However, manual inspection of acoustic recordings becomes more challenging with increasingly larger datasets. In this study, we developed a logistic model to predict the probability of bird presence in audio recordings using sound frequency percentiles. The acoustic recordings covered bird songs and calls in a wide range of environments (e.g., grassland, forest, urban areas) along with the presence of noise due to weather, traffic, insects, and human speech.
+Forests in interior British Columbia (BC), Canada are naturally maintained by wildfires; however, wildfire characteristics in interior BC have been shifting with climate change, where longer, warmer, and drier summers may alter the existing fire regimes. For this, resources have been devoted to developing and applying innovative post-fire management strategies, in order to lower the probability of subsequent fire events and/or lower the severity of subsequent fires. This study aims to determine whether and how the severity of previous fire influenced the reburn severity in the Riske Creek are in interior BC, and provide insights into developing post-fire management strategies, in order to lower the probability of reburn and/or lower the reburn severity.
