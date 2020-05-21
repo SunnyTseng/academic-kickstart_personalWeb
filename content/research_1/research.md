@@ -3,7 +3,10 @@
 widget = "featured"  # Use the Featured widget
 headless = true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
+active = true  # Activate this widget? true/false
+weight = 180  # Order that this section will appear.
+
+title = "Research Projects"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
