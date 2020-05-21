@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: Funded by National Geographic 
 publication_short: In *Source Themes Conference*
 
-abstract: Indigirka River Delta is one of the most productive tundra area in Siberia that supports 40 – 60 migratory bird species each summer. Despite the magnificent avifauna, only few research expeditions had been conducted in the delta since it is difficult and expensive to survey with human observers. Automated acoustic recording systems are potential solutions enabling large scale monitoring. However, previous studies had shown the importance of evaluating the detection performance of recorders under spatially variable survey conditions in advance of implementation. In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys in the Siberian Arctic Tundra..
+abstract: Indigirka River Delta is one of the most productive tundra area in Siberia that supports 40 – 60 migratory bird species each summer. Despite the magnificent avifauna, only few research expeditions had been conducted in the delta since it is difficult and expensive to survey with human observers. Automated acoustic recording systems are potential solutions enabling large scale monitoring. However, previous studies had shown the importance of evaluating the detection performance of recorders under spatially variable survey conditions in advance of implementation. In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys in the Siberian Arctic Tundra.
 
 # Summary. An optional shortened abstract.
 summary: In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys in the Siberian Arctic Tundra.
@@ -28,22 +28,22 @@ tags:
 - Source Themes
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#links:
+#- name: Custom Link
+#  url: http://example.org
+#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Siberian arctic tundra'
   focal_point: ""
   preview_only: false
 
@@ -63,13 +63,4 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+Indigirka River Delta is one of the most productive tundra area in Siberia that supports 40 – 60 migratory bird species each summer. Despite the magnificent avifauna, only few research expeditions had been conducted in the delta since it is difficult and expensive to survey with human observers. Automated acoustic recording systems are potential solutions enabling large scale monitoring. However, previous studies had shown the importance of evaluating the detection performance of recorders under spatially variable survey conditions in advance of implementation. In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys in the Siberian Arctic Tundra.
