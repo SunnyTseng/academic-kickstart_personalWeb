@@ -1,5 +1,5 @@
 ---
-title: "Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model"
+title: "Automatic Bird Sound Detection: Logistic Regression Based Acoustic Occupancy Model (2018-2019)"
 authors:
 - admin
 date: "2019-03-01T00:00:00Z"

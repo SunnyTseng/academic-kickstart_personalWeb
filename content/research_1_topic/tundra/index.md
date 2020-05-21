@@ -1,5 +1,5 @@
 ---
-title: "Acoustic Monitoring for Migratory Birds in Northeastern Siberian Arctic Tundra"
+title: "Acoustic Monitoring for Migratory Birds in Northeastern Siberian Arctic Tundra (2020-)"
 authors:
 - admin
 
@@ -26,7 +26,7 @@ summary: In this study, we will investigate the utility of an acoustic recorder 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 #links:
 #- name: Custom Link

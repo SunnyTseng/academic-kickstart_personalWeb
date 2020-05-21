@@ -1,5 +1,5 @@
 ---
-title: "Previous Fire Severity Enhances Reburn Severity: A Case Study in Interior British Columbia, Canada"
+title: "Previous Fire Severity Enhances Reburn Severity: A Case Study in Interior British Columbia, Canada (2017-2019)"
 authors:
 - admin
 
@@ -26,7 +26,7 @@ summary: This study aims to determine whether and how the severity of previous f
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 #links:
 #- name: Custom Link
