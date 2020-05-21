@@ -1,6 +1,6 @@
 ---
 title: Pileated Woodpecker
-summary: For Val, my beloved supervisor.
+summary: On 2019-07-27
 date: "2019-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

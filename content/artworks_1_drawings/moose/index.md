@@ -1,6 +1,6 @@
 ---
 title: Christmas moose
-summary: This work was made for one of my friends as a Christmas gift.
+summary: On 2017-12-31
 date: "2017-12-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
