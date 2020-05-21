@@ -7,7 +7,7 @@ date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Funded by National Geographic 
-# publication_short: In *Source Themes Conference*
+publication_short: In *Source Themes Conference*
 
 abstract: Indigirka River Delta is one of the most productive tundra area in Siberia that supports 40 – 60 migratory bird species each summer. Despite the magnificent avifauna, only few research expeditions had been conducted in the delta since it is difficult and expensive to survey with human observers. Automated acoustic recording systems are potential solutions enabling large scale monitoring. However, previous studies had shown the importance of evaluating the detection performance of recorders under spatially variable survey conditions in advance of implementation. In this study, we will investigate the utility of an acoustic recorder for monitoring abundance of tundra birds relative to point count surveys in the Siberian Arctic Tundra..
 
