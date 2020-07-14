@@ -60,7 +60,7 @@ Wolf howling, the sound that I have long been waiting for.
 I belong everywhere, but nowhere.
 
 ![alt text](IMG_8042_1.jpg "")
-![alt text](featured.jpg "")
+![alt text](IMG_1234.jpg "")
 ![alt text](IMG_8572_1.jpg "")
 ![alt text](IMG_8592_1.jpg "")
 ![alt text](IMG_8675_1.jpg "")

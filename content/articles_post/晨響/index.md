@@ -8,11 +8,11 @@ date: 2019-03-25
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 2
-  caption: ''
-  focal_point: ""
-  preview_only: false
+#image:
+#  placement: 2
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 ---
 
 春天的氣息慢慢近了。昨晚睡前查了溫哥華的日出時間，Google顯示六點三十，於是我把鬧鐘調到五點半。 
@@ -26,3 +26,5 @@ image:
 呼…我完全就像是個宴會遲到的賓客，匆忙架起錄音器材，心裡不停吶喊著「等我、等我…」。附近的林地上還有雪，於是我找了一個乾燥的角落，把自己跟麥克風藏在落葉堆裡、就此坐定。接著就是一場早晨的冥想、一段沒有人聲干擾的奢侈時光。啊，這樣奢侈的聽覺享受，就容我留給自己回憶吧。
 
 我想起野地錄音師 Gordon Hempton說過「I found the calmness and isolation in the silence. Didn’t criticize it, didn’t evaluate it, I just took it all in.」我很享受藉由聆聽，而能與自己真實相處的感受。
+
+![alt text](IMG_1234.jpg "")

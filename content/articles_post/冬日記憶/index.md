@@ -79,4 +79,4 @@ Prince Albert 國家公園位在 Saskatchewan 南方溫帶草原與寒帶針葉�
 
 “Most people are on the world, not in it.” said by John Muir. I say, winter is one of the moments that you can truly listen to your heart. Great appreciation to this wonderful, beautiful, and cheerful winter in Saskatoon. Great appreciation to the moment that I can feel my heart.
 
-![alt text](featured.jpg "")
+![alt text](IMG_1234.jpg "")

@@ -8,11 +8,11 @@ date: 2019-04-16
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 2
-  caption: ''
-  focal_point: ""
-  preview_only: false
+#image:
+#  placement: 2
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 ---
 
 大概是一年前的這個時候，從圖書館借出了一本英文版的《湖濱散記》，從那時就對於一個人的湖濱生活有著浪漫的想像，而藉由自己的能力與自然共存著更是令我著迷的嚮往，像是自己砍柴、生火、狩獵、取水。想起有一次與 M 聊天，他說他這一生中做過印象最深刻的事情，就是連續十四天在野外生活，沒有遇到任何人，沒有網路、沒有電話訊號。我記得當時的我，好羨慕他。
@@ -24,3 +24,5 @@ image:
 走了大約兩個小時（其實這湖也不小），岩壁旁有個突出的大石頭，一路延伸到湖面，我爬上了大石頭俯瞰整座湖，正對面剛好是經歷過雪崩的山坡，樹木特別的矮小，兩旁高大的樹紛紛避開讓路，也甚是可愛。我把麥克風放在身旁，按下錄音鍵。一隻松鼠好奇的、小心翼翼地靠近我。所以又不得已在雪白的錄音裡添了幾聲快門聲。
 
 並不是所有地方都能給我這樣撫平心境的感受，因此特別以文字留下紀錄、謹記這樣一個特別的地方。
+
+![alt text](IMG_1234.jpg "")

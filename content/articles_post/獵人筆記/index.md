@@ -8,11 +8,11 @@ date: 2018-07-01
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 2
-  caption: ''
-  focal_point: ""
-  preview_only: false
+#image:
+#  placement: 2
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 ---
 
 
@@ -60,7 +60,7 @@ John 又從地下室搬出了三把槍，22 cal rifle、243 rifle，和電影上
 噢，如果說 Chilcotinian是勇敢而自信的代名詞的話，那麼我很希望，我是的。
 
 
-![alt text](featured.jpg "")
+![alt text](IMG_1234.jpg "")
 
 #### # IV
 「Sunny, you will be a great hunter if you want.」。如果有機會我真的很想嘗試，一次也好。

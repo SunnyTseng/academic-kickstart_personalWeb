@@ -84,7 +84,7 @@ Bird sound audio analysis is my side project of the master study. I was truly lu
 
 “The only person you need to impress is yourself.”—I especially appreciated one of my friends, David, who told me this before my presentation.
 
-![alt text](featured.jpg "")
+![alt text](IMG_1234.jpg "")
 
 #### # VII
 Doing research is like painting (and anything else), requires lots of efforts, time, and hard working. However, things always become easier when having great partners around. Feel really blessed to know/work with these wonderful people. 

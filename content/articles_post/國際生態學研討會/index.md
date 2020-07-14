@@ -74,7 +74,7 @@ Pablo:「我也是喔!」
 
 PS. 最喜歡這些可愛的朋友們。
 
-![alt text](featured.jpg "")
+![alt text](IMG_1234.jpg "")
 
 #### # V
 ESA 的最後一篇分享，獻給這兩位帥氣的男孩、我這幾天來的最佳玩伴。

@@ -8,11 +8,11 @@ date: 2017-12-14
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 2
-  caption: ''
-  focal_point: ""
-  preview_only: false
+#image:
+#  placement: 2
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 ---
 
 
@@ -224,7 +224,7 @@ A 戴著黑色毛帽，灰藍色棉T、寬鬆的牛仔褲、黑色休閒鞋，�
 
 而親愛的雪鴞，你可知道嗎。在為你而來的這段旅程上，最珍貴的不只是最後見到了你，我還真真實實地體會到了溫暖的人心、與信念的力量。
 
-![alt text](featured.jpg "")
+![alt text](IMG_1234.jpg "")
 
 #### # 後記
 我熱愛旅行，也不怕探險。好像身體裡奔放的靈魂，只有在陌生的那裡才可以獲得安撫。但我也漸漸的體會到，對於一趟旅程，最珍貴的不是這場夢境有多美，而是即便在夢醒之後，我還可以帶著一些省思與體悟，用新的角度去欣賞清醒之後的世界。

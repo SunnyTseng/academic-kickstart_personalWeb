@@ -8,11 +8,11 @@ date: 2019-11-12
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 2
-  caption: ''
-  focal_point: ""
-  preview_only: false
+#image:
+#  placement: 2
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 ---
 
 八月底的一場旅行中掉了證件，護照、學生簽證跟錢包全都遺失，好不容易平安回到加拿大，又因為簽證遺失的緣故而駕照被扣留、差點失去學校助教的機會，要忙寫論文畢業，又因為房子到期要計劃搬家…。各種擔憂同時在心裡繞著，總而言之，過去的兩個月實在是非常的艱辛。
@@ -26,3 +26,5 @@ image:
 感謝這位理論物理學家從遠方捎來了旅人的喜悅，並且在這幾天來陪我上山下海，雖然讓你在大太陽下搬梯子走爛泥巴，也不小心讓鳥屋調查中的兇猛蜘蛛嚇到你，但能與你分享小小鳥類學家的生活，真的是很快樂的一件事情。也謝謝你與我分享了一杯聖誕節專屬的 Glüewine，還幫我複習了記憶模糊的相對論與量子物理。也很欣慰地看到你明明冷到不行卻還是堅持只穿一件外套，就跟當年的你一樣。
 
 那天在結冰的湖面上，空中的燈光排成了仙后座，指向我們的北極星。要一直這樣在世界不同角落努力著，並一起笑著、哭著噢。
+
+![alt text](IMG_1234.jpg "")
