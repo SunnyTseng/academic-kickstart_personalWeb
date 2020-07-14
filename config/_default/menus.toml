@@ -33,10 +33,10 @@
   url = "recordings/"
   weight = 60
 
-[[main]]
-  name = "Travel"
-  url = "travel/"
-  weight = 60
+#[[main]]
+#  name = "Travel"
+#  url = "travel/"
+#  weight = 60
   
 #[[main]]
 #name = "Contact"
