@@ -8,11 +8,11 @@ date: 2019-12-12
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 2
-  caption: ''
-  focal_point: ""
-  preview_only: false
+#image:
+#  placement: 2
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 ---
 
 親愛的北一女孩們，妳們都好嗎?
@@ -30,3 +30,5 @@ image:
 綠襯衫，是一身，也是一生的驕傲。感謝北一女中給了我如此美好的青春歲月，願當初一起奔跑微笑享受陽光的妳們，現在也都一切順心喔。
 
 愛妳們。
+
+![alt text](featured.jpg "")
