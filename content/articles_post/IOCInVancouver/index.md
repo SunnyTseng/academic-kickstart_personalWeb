@@ -8,11 +8,11 @@ date: 2018-08-19
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#image:
-#  placement: 2
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 ---
 
 #### # I
@@ -84,7 +84,7 @@ Bird sound audio analysis is my side project of the master study. I was truly lu
 
 “The only person you need to impress is yourself.”—I especially appreciated one of my friends, David, who told me this before my presentation.
 
-![alt text](IMG_1234.jpg "")
+![alt text](featured.jpg "")
 
 #### # VII
 Doing research is like painting (and anything else), requires lots of efforts, time, and hard working. However, things always become easier when having great partners around. Feel really blessed to know/work with these wonderful people. 
