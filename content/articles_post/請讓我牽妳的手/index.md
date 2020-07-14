@@ -8,11 +8,11 @@ date: 2018-11-01
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#image:
-#  placement: 2
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 ---
 
 自從進了博物館學習準備動物標本後，隨著解剖的樣本越來越多，動手猶豫的時間也就越來越短。左手拉著緊貼肌肉的皮，右手劃著手術刀，整個過程就像是 ildiko 說的 「Rip and peel」。
@@ -30,4 +30,4 @@ date: 2018-11-01
 
 如果可以，我希望每個生命都有權利好好的活著；如果不行，那我希望，博物館會是她們安息的棲所。
 
-![alt text](IMG_1234.jpg "")
+![alt text](featured.jpg "")

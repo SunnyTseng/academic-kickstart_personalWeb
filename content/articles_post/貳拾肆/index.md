@@ -8,11 +8,11 @@ date: 2018-06-09
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#image:
-#  placement: 2
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 ---
 
 二十四歲。
@@ -29,4 +29,4 @@ Jane Goodall，正在非洲坦尚尼亞的荒野進行黑猩猩的行為學研�
 
 PS 好謝謝朋友們的來信及問候，你們真的是我心底暖暖的陽光。想跟大家分享我好喜歡的兩則訊息: “Birthdays never make us older, they only make use wiser and more mature. Happy birthday young lady!”、” 不知不覺邁向二十歲中的我們，但願那雙眼和那顆心依然赤誠”。
 
-![alt text](IMG_1234.jpg "")
+![alt text](featured.jpg "")

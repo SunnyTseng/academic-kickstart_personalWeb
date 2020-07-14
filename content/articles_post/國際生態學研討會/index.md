@@ -8,11 +8,11 @@ date: 2019-08-11
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#image:
-#  placement: 2
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 ---
 
 #### # I
@@ -74,7 +74,7 @@ Pablo:「我也是喔!」
 
 PS. 最喜歡這些可愛的朋友們。
 
-![alt text](IMG_1234.jpg "")
+![alt text](featured.jpg "")
 
 #### # V
 ESA 的最後一篇分享，獻給這兩位帥氣的男孩、我這幾天來的最佳玩伴。

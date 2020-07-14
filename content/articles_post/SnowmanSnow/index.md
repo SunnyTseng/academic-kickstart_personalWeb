@@ -8,11 +8,11 @@ date: 2019-12-20
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#image:
-#  placement: 2
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 ---
 
 
@@ -60,7 +60,7 @@ Wolf howling, the sound that I have long been waiting for.
 I belong everywhere, but nowhere.
 
 ![alt text](IMG_8042_1.jpg "")
-![alt text](IMG_1234.jpg "")
+![alt text](featured.jpg "")
 ![alt text](IMG_8572_1.jpg "")
 ![alt text](IMG_8592_1.jpg "")
 ![alt text](IMG_8675_1.jpg "")

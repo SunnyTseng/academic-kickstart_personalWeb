@@ -8,11 +8,11 @@ date: 2019-12-12
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#image:
-#  placement: 2
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 ---
 
 親愛的北一女孩們，妳們都好嗎?
@@ -31,4 +31,4 @@ date: 2019-12-12
 
 愛妳們。
 
-![alt text](IMG_1234.jpg "")
+![alt text](featured.jpg "")

@@ -8,11 +8,11 @@ date: 2019-07-12
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#image:
-#  placement: 2
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 ---
 
 
@@ -66,5 +66,5 @@ Definitely one of my favorite pictures of this wonderful hike. Thank these cute 
 #### # 後記
 背上背包的自己，看起來是這樣的。
 
-![alt text](IMG_1234.jpg "")
+![alt text](featured.jpg "")
 

@@ -8,11 +8,11 @@ date: 2019-02-14
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#image:
-#  placement: 2
-#  caption: ''
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 ---
 
 #### # I
@@ -79,4 +79,4 @@ Prince Albert 國家公園位在 Saskatchewan 南方溫帶草原與寒帶針葉�
 
 “Most people are on the world, not in it.” said by John Muir. I say, winter is one of the moments that you can truly listen to your heart. Great appreciation to this wonderful, beautiful, and cheerful winter in Saskatoon. Great appreciation to the moment that I can feel my heart.
 
-![alt text](IMG_1234.jpg "")
+![alt text](IMG_featured.jpg "")
