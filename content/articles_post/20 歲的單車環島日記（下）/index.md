@@ -1,8 +1,8 @@
 ---
-title: 20 歲的單車環島日記
+title: 20 歲的單車環島日記（下）
 subtitle: 那些青春的熱情、單純、與毫不保留的笑聲，在回首回憶時，不斷滋養著自己
 summary: 回想這幾天，真的讓我經歷到以前從未想像過的旅行的意義。一個人的旅行很棒很自在；兩個人的旅行，有另一番奇妙美好的滋味 ...
-date: 2014-08-09
+date: 2014-08-23
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
