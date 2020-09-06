@@ -2,7 +2,7 @@
 title: 關於放棄
 subtitle: 困難的決定，但我更期待未來的路
 summary: So, I decide to defer the offer of a full-funded PhD....
-date: 2020-08-21
+date: 2020-08-28
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
